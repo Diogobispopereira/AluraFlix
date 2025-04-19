@@ -8,7 +8,7 @@ import "./links.css"
                 <img src="src/Paginas/PaginasLink/LogoMain.png" className="link__imagem"/>
                 <ul className="botao__link">
                     <li className="botao__home"><Link to="/">Home</Link></li>
-                    <li className="botao__novoVideo" ><Link to="/NovoVideo">Novo vídeo</Link></li>
+                    <li className="botao__novoVideo" ><Link to="/NovoVideo">Novo video</Link></li>
                 </ul>
        
             </nav>

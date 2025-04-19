@@ -200,13 +200,13 @@ export function Formulario() {
             </div>
 
             <div className="formulario__caixa-video">
-              <label htmlFor="video">Vídeo</label>
+              <label htmlFor="video">Video</label>
               <input
                 className="input-video"
                 type="url"
                 id="video"
                 name="video"
-                placeholder="Digite o link do vídeo"
+                placeholder="Digite o link do video"
                 required
                 value={formData.video}
                 onChange={handleChange}

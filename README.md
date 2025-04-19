@@ -28,7 +28,8 @@ Breve descrição do projeto:
 
 ## 📸 Prévia do projeto 
 
-<video src="src/assets/Gravando%20AluraFlix.mp4" controls title="Title"></video> 
+ <img src="public/pricipal.png" alt="imagem inicial da tela do app" />
+ <img src="public/novo video.png" alt="imagem da da pagina de formulário" />
  
  > Esse pequeno vidéo é uma amostra do que o app é capaz.
 

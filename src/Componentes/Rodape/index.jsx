@@ -8,6 +8,7 @@ export function Rodape() {
         <div className="rodape">
             <img src="src/Paginas/PaginasLink/LogoMain.png" className="rodape__img" />
             <div className="rodape__icons">
+               
                 <a href="https://wa.me/75982627812?text=Olá%2C%20quero%20saber%20mais%20sobre%20o%20projeto!"
                     target="_blank"
                     rel="noopener noreferrer" className="WhatsAppIcon"> <img src="src/Componentes/Rodape/whats.png" className="WhatsappIcon" /></a>
