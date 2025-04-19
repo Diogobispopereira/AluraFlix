@@ -1,0 +1,30 @@
+.rodape{
+    width:100%;
+    height: 125px;
+    border-top: 4px solid rgb(7, 69, 162) ;
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.rodape__img{
+    width: 168.45px;
+    height: 40px;
+}
+.rodape__icons {
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+   margin-left: 17px;
+}
+.WhatsAppIcon ,
+.InstagramIcon,
+.LinkedinIcon{
+    width: 30px;
+    height: 30px;
+    
+}
+.InstagramIcon:hover{
+    color: red;
+}

@@ -1,0 +1,26 @@
+{
+  "dados": [
+    {
+      "id": "9793",
+      "titulo": "Zé ramalho",
+      "categoria": "Zé Ramalho",
+      "imagem": "https://static.vecteezy.com/system/resources/previews/008/470/332/non_2x/love-man-and-woman-marriage-couple-anime-cute-character-cartoon-model-emotion-illustration-clipart-drawing-kawaii-manga-design-idea-art-png.png",
+      "video": "https://www.youtube.com/embed/CAntcE7GztY?si=8d_eYtjaNq65FhJM\" title=\"YouTube video player",
+      "descricao": " É uma profunda reflexão sobre a saudade, a natureza e a transformação pessoal através do amor. A letra inicia com a descrição de um sentimento de saudade, representado por cores como o cinza e o azul, que simbolizam a melancolia e a incerteza, respectivamente.",
+      "musica": "Companheira de Alta-Luz",
+      "corCategoria": "",
+      "novaCategoria": ""
+    },
+    {
+      "id": "4bea",
+      "titulo": "Roupa Nova",
+      "categoria": "Roupa Nova",
+      "imagem": "https://img.freepik.com/fotos-gratis/personagens-de-anime-celebrando-o-natal_23-2150970299.jpg?semt=ais_hybrid&w=740",
+      "video": "https://www.youtube.com/embed/2LF-B1_EyPw?si=xpWzOu4BnnvRsJK-%22%20title=%22YouTube%20video%20player",
+      "descricao": " Com uma melodia suave e harmonias características do grupo, a canção se desdobra em uma reflexão sobre a capacidade transformadora e a natureza indomável do amor. A letra fala sobre como o amor pode ser ao mesmo tempo terreno e celestial, capaz de tocar o chão e alcançar as estrelas, mostrando a dualidade de ser algo concreto, mas também aspiracional e elevado.",
+      "musica": "A Força Do Amor",
+      "corCategoria": "",
+      "novaCategoria": ""
+    }
+  ]
+}

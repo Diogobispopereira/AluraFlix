@@ -1,0 +1,129 @@
+.links__container{
+    width: 100%;
+    height: 125px;
+    align-items: center;
+    display: flex;
+}
+.links__navegacao{
+    display: flex;
+    width: 95%;
+    margin: 0px auto;
+    height: 80px;
+    justify-content: space-between;
+     align-items: center;
+   
+} 
+.botao__link{
+    width: 395px;
+    display: flex;
+    justify-content: space-around;
+}
+.botao__home a, 
+.botao__novoVideo a{
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 24px;
+    font-family: var(--botoes);
+}
+.botao__novoVideo a{
+    color: #FFFFFF;
+}
+.botao__home{
+        width: 180px;
+        height: 54px;
+        border: 4px solid #2271D1 ;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 12px;
+        box-shadow: 5px 5px  black;
+        color: #2271D1;
+}
+.botao__home:hover{
+    box-shadow: 5px 5px  #fff;
+    color: #ffffff;
+     border: 4px solid #ffffff ;
+}
+.botao__home a:hover{
+    color: #FFFFFF;
+}
+.botao__novoVideo{
+        width: 180px;
+        height: 54px;
+        border: 4px solid #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 12px;
+        box-shadow: 5px 5px black;
+}
+.botao__novoVideo:hover{
+    box-shadow: 5px 5px   #2271D1;
+    color:  #2271D1;
+     border: 4px solid  #2271D1;
+}
+.botao__novoVideo a:hover{
+    color: #2271D1;
+}
+@keyframes girarUmaVez {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes girarHover {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+.link__imagem{
+    width: 125px;
+   height: 30px;
+   animation: girarUmaVez 2s ease-in-out 1
+}
+.link__imagem:hover{
+    animation: girarHover 1.5s ease-in-out 
+}
+ @media screen and (max-width: 720px) {
+    .botao__link{
+        width: 315px;
+    }
+    .botao__home , 
+    .botao__novoVideo {
+     width: 42%;
+     height: 43px;
+    
+   }
+   .botao__home a , 
+   .botao__novoVideo a{
+     font-size: 19px;
+   }
+}
+ @media screen and (max-width:495px) {
+    .links__navegacao{
+     flex-direction: column;
+     gap: 20px;
+    }
+    .link__imagem{
+        width: 35%
+    }
+    .botao__link{
+        width: 100%;
+    }
+    .botao__home , 
+    .botao__novoVideo {
+     width: 45%;
+     height: 43px;
+    
+   }
+   .botao__home a , 
+   .botao__novoVideo a{
+     font-size: 19px;
+   }
+ }

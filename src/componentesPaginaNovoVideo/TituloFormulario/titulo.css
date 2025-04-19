@@ -1,0 +1,49 @@
+.titulo__novoVideo {
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #231f1f;
+}
+
+.novoVideo__container {
+    width: 782px; 
+    height: 136px;
+    margin: 0px auto;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.titulo, .subTitulo{
+     color: #FFFFFF;
+}
+.titulo{
+    font-size: 60px;
+    line-height: 70.31px;
+    font-weight: 900; 
+    font-family: var(--novoVideo-Titulo);
+}
+.subTitulo{
+    font-size: 20px;
+    line-height: 23.44px;
+    font-weight: 400;
+    font-family: var(--novoVideo-subTitulo);
+}
+@media screen and (max-width: 700px){
+    .titulo{
+        font-size: 45px;
+    }
+    .subTitulo {
+        font-size: 100%;
+        line-height: 22.44px;
+        font-weight: 400;
+       
+        width: 80%;
+        margin: 0px auto;
+        text-align: center;
+    }
+}
