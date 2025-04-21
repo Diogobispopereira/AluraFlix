@@ -1,17 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # AluraFlix
 
 Breve descrição do projeto:
 
-> A AluraFlix é um app onde você pode colocar por categoria os vídeos que desejar, por exemplo: Você pode pegar alguns vídeos de front-end e colocar na categoria Front-End e se aplica a outros vídeos incluindo musicas também e, se você colocar uma imagem ao criar um vidéo ele aparecerá no banner.
+> A AluraFlix é um Site onde você pode colocar por categoria os videos que desejar, por exemplo: Você pode pegar alguns vídeos de front-end e colocar na categoria Front-End e se aplica a outros vídeos incluindo musicas também e, se você colocar uma imagem ao criar um vidoo ele aparecerá no banner.
 
 ---
 
@@ -31,7 +23,7 @@ Breve descrição do projeto:
  <img src="public/pricipal.png" alt="imagem inicial da tela do app" />
  <img src="public/novo video.png" alt="imagem da da pagina de formulário" />
  
- > Esse pequeno vidéo é uma amostra do que o app é capaz.
+ > Essas imagem mostra uma prévia de como está o site do Alura flix 
 
 ---
 
@@ -43,7 +35,7 @@ git@github.com:Diogobispopereira/AluraFlix.git
 
 # Acesse a pasta do projeto
  cd meu-projeto 
- 
+
 # Instale as dependências
 npm install
 
