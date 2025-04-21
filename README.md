@@ -39,11 +39,11 @@ Breve descrição do projeto:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git@github.com:Diogobispopereira/AluraFlix.git
 
 # Acesse a pasta do projeto
-cd nome-do-projeto
-
+ cd meu-projeto 
+ 
 # Instale as dependências
 npm install
 
