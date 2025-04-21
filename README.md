@@ -9,10 +9,10 @@ Breve descrição do projeto:
 
 ## 🚀 Tecnologias usadas
 
-- ReactJS
-- SwiperJS
 - JavaScript 
+- ReactJS
 - CSS
+- SwiperJS
 - JSON Server (mock API)
 - useContext
 
