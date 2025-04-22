@@ -9,9 +9,20 @@ Breve descrição do projeto:
 
 ## 🚀 Tecnologias usadas
 
-- JavaScript 
-- ReactJS
-- CSS
+- JavaScript   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" width="40" height="40" />
+       </a>
+- ReactJS  <a href="https://reactjs.org/" target="_blank" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+         alt="React" width="40" height="40" />
+         </a>
+
+- CSS  
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         alt="CSS3" width="40" height="40" />
+         </a>
 - SwiperJS
 - JSON Server (mock API)
 - useContext
