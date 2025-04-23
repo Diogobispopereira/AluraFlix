@@ -6,7 +6,7 @@ export function VideoProvider({ children }) {
   const [videos, setVideos] = useState([]);
 
   useEffect(() => {
-    fetch("https://680801ef942707d722dd1504.mockapi.io/alura/dados")
+    fetch("https://my-json-server.typicode.com/Diogobispopereira/apiJson/dados")
       .then((response) => response.json())
       .then((data) => setVideos(data))
       .catch((error) => console.error("Erro ao buscar vídeos:", error));
