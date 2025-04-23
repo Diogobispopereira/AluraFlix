@@ -13,7 +13,7 @@ function Banner() {
    const [imagens, setImagens] = useState("");
 
    useEffect(() => {
-      fetch("https://my-json-server.typicode.com/Diogobispopereira/apiJson/dados")
+      fetch("http://localhost:3000/dados")
          .then((response) => {
             if (!response.ok) {
                throw new Error(`Erro na requisição: ${response.status}`);
