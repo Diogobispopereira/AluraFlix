@@ -13,7 +13,7 @@ function Banner() {
    const [imagens, setImagens] = useState("");
 
    useEffect(() => {
-      fetch("http://localhost:3000/dados")
+      fetch("https://680801ef942707d722dd1504.mockapi.io/alura/dados")
          .then((response) => {
             if (!response.ok) {
                throw new Error(`Erro na requisição: ${response.status}`);
