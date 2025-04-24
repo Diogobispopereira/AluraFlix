@@ -1,4 +1,4 @@
-/* Melhor Reset CSS */
+
 *,
 *::before,
 *::after {
@@ -7,31 +7,31 @@
   box-sizing: border-box;
 }
 
-/* Remove estilos padrão de listas */
+
 ul, ol {
   list-style: none;
 }
 
-/* Remove sublinhados de links */
+
 a {
   text-decoration: none;
   color: inherit;
 }
 
-/* Define um estilo padrão para imagens */
+
 img {
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* Remove estilos padrão de botões */
+
 button {
   all: unset;
   cursor: pointer;
 }
 
-/* Corrige o comportamento de inputs e selects */
+
 input, textarea, select {
   font: inherit;
   color: inherit;
@@ -40,7 +40,6 @@ input, textarea, select {
   background: none;
 }
 
-/* Define estilos padrão para o body */
 html {
   font-size: 100%;
   scroll-behavior: smooth;
@@ -54,7 +53,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Tabelas com layout mais limpo */
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -65,7 +64,7 @@ th, td {
   padding: 0.5em;
 }
 
-/* Remove estilos padrão de fieldset e legend */
+
 fieldset {
   border: 0;
 }
@@ -74,22 +73,21 @@ legend {
   padding: 0;
 }
 
-/* Define altura mínima para páginas com pouco conteúdo */
+
 html, body {
   min-height: 100%;
 }
 
-/* Remove estilos padrão para elementos de cabeçalho */
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 
-/* Adiciona um comportamento padrão para links e botões acessíveis */
 a, button {
   cursor: pointer;
 }
 
-/* Adiciona estilos para box-model consistente */
+
 hr {
   border: none;
   border-top: 1px solid #ccc;
