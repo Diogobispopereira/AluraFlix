@@ -18,7 +18,7 @@ export function VideoProvider({ children }) {
 
   async function deletarVideo(id) {
     try {
-      const response = await fetch(`http://localhost:3000/dados/${id}`, {
+      const response = await fetch(`https://680801ef942707d722dd1504.mockapi.io/alura/dados/${id}`, {
         method: "DELETE",
       });
 
