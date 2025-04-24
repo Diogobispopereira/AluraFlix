@@ -127,29 +127,24 @@ export function Formulario() {
             <div className="formulario__caixa-input">
               <label htmlFor="categoria">Categoria</label>
               <select
-                className="input"
-                id="categoria"
-                name="categoria"
-                required
-                value={formData.categoria}
-                onChange={handleChange}
-              >
-                <div className="option">
-                  <option value="">Selecione uma categoria</option>
-                {novasCategorias.map((categoria, index) => (
-                
-                  <option
-                    key={index}
-                    value={categoria.nome}
-                    style={{ color: `#FFFFF` }
-                    }>
-                
-                    {categoria.nome}
-                  </option>
-                ))}
-                </div>
-                
-              </select>
+  className="input"
+  id="categoria"
+  name="categoria"
+  required
+  value={formData.categoria}
+  onChange={handleChange}
+>
+  <option value="">Selecione uma categoria</option>
+  {novasCategorias.map((categoria, index) => (
+    <option
+      key={index}
+      value={categoria.nome}
+      style={{  color: "#fff" }}
+    >
+      {categoria.nome}
+    </option>
+  ))}
+</select>
             </div>
           </fieldset>
 
