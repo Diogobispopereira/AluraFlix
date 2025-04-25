@@ -6,7 +6,7 @@ export function VideoProvider({ children }) {
   const [videos, setVideos] = useState([]);
 
   useEffect(() => {
-    fetch("https://680801ef942707d722dd1504.mockapi.io/alura/dados")
+    fetch("http://localhost:3000/dados")
       .then((response) => response.json())
       .then((data) => setVideos(data))
       .catch((error) => console.error("Erro ao buscar vídeos:", error));
@@ -18,7 +18,7 @@ export function VideoProvider({ children }) {
 
   async function deletarVideo(id) {
     try {
-      const response = await fetch(`https://680801ef942707d722dd1504.mockapi.io/alura/dados/${id}`, {
+      const response = await fetch(`http://localhost:3000/dados/${id}`, {
         method: "DELETE",
       });
 
