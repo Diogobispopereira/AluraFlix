@@ -25,11 +25,11 @@
     {
       "id": "7348",
       "titulo": "Chitaozinho e xororó",
-      "categoria": "gama",
+      "categoria": "Chitaozinho e xororó",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFt-ajxrhZNKzcCjSm2pwdgtG6iQKnoKRKQ&s",
       "video": "https://www.youtube.com/embed/sTuQovueuw4?si=VFS1G4pfR9IzyDQP",
-      "descricao": "byljkgfdtyuikbhgti",
-      "musica": "ser feliz",
+      "descricao": "A canção, portanto, fala sobre a rendição ao amor e a dificuldade de se manter afastado de alguém que exerce grande influência emocional. Através de uma melodia suave e letras que tocam o coração, Chitãozinho & Xororó conseguem transmitir a complexidade dos sentimentos envolvidos em um relacionamento amoroso, onde a luta para se proteger é constantemente desafiada pelo desejo de se entregar à paixão.",
+      "musica": "Brincar de ser feliz",
       "corCategoria": "",
       "novaCategoria": ""
     },
@@ -41,6 +41,17 @@
       "video": "https://www.youtube.com/embed/IMUXXXSFSw4?si=UY1WWb0TzPSPdM77",
       "descricao": " A letra expressa o desejo de um dos envolvidos em passar tempo com a pessoa amada, sugerindo que ela crie uma desculpa para os pais, a fim de que possam sair juntos. A ideia de planejar um dia perfeito, repleto de atividades simples, mas significativas, como tomar sorvete e ir ao cinema, atividades que simbolizam a cumplicidade e o prazer da companhia mútua.",
       "musica": "Programa de Fim de Semana",
+      "corCategoria": "",
+      "novaCategoria": ""
+    },
+    {
+      "id": "b35c",
+      "titulo": "Bruno e Marrone",
+      "categoria": "Bruno e Marrone",
+      "imagem": "https://th.bing.com/th/id/OIP.tdDwB1mMLCsuly4MTHHQFwAAAA?w=222&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "video": "https://www.youtube.com/embed/62Ws0fF38N8?si=WOPlw-jNZuAnjnCu",
+      "descricao": "A letra expressa um sentimento profundo de saudade e a dificuldade de seguir em frente após a partida de um grande amor.\n\nAtravés de versos carregados de emoção, o eu lírico reflete sobre a ausência da pessoa amada e como essa ausência transforma o cotidiano em algo monótono e doloroso.",
+      "musica": "Se Não Tivesse Ido",
       "corCategoria": "",
       "novaCategoria": ""
     }
