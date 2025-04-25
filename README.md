@@ -15,7 +15,7 @@ Breve descrição do projeto:
        </a>
 - ReactJS  <a href="https://reactjs.org/" target="_blank" title="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-         alt="React" width="40" height="40" />
+         alt="React" width="30" height="30" />
          </a>
 
 - CSS  
