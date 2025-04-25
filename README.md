@@ -11,7 +11,7 @@ Breve descrição do projeto:
 
 - JavaScript   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" title="JavaScript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-       alt="JavaScript" width="40" height="40" />
+       alt="JavaScript" width="30" height="30" />
        </a>
 - ReactJS  <a href="https://reactjs.org/" target="_blank" title="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
@@ -23,7 +23,7 @@ Breve descrição do projeto:
          alt="CSS3" width="30" height="30" />
          </a>
 - SwiperJS
-- JSON Server (mock API)
+- JSON Server (mock API) api fake que utilizei
 - useContext
 
 ---
@@ -51,3 +51,6 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+
+# Inicie a Api de desenvolvimento para poder acessar todo o conteúdo do site 
+json-server --watch db.json --port 3000 
