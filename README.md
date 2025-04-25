@@ -18,10 +18,9 @@ Breve descrição do projeto:
          alt="React" width="30" height="30" />
          </a>
 
-- CSS  
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" title="CSS3">
+- CSS  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" title="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-         alt="CSS3" width="40" height="40" />
+         alt="CSS3" width="30" height="30" />
          </a>
 - SwiperJS
 - JSON Server (mock API)
